@@ -1,4 +1,4 @@
-package com.example.nestemployeeapp_backend;
+package com.nest.nestemployeeapp_backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

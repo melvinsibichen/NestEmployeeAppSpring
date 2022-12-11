@@ -1,4 +1,4 @@
-package com.example.nestemployeeapp_backend;
+package com.nest.nestemployeeapp_backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
